@@ -1,5 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "rc2400")(type "KiCad")(uri "${KIPRJMOD}/rc2400.pretty")(options "")(descr ""))
-  (lib (name "RC2400")(type "KiCad")(uri "${KIPRJMOD}/RC2400.pretty")(options "")(descr ""))
+  (lib (name "AN026")(type "KiCad")(uri "${KIPRJMOD}/AN026.pretty")(options "")(descr ""))
 )

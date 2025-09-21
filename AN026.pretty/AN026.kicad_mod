@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "RC2400"
+	(property "Value" "AN026"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -231,7 +231,7 @@
 		(uuid "9a3e1232-2225-4e17-bd4f-d56e2c62963a")
 	)
 	(pad "16" smd roundrect
-		(at 3.175 5.715 90)
+		(at 2.54 5.715 90)
 		(size 2.032 1.016)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
@@ -239,7 +239,7 @@
 		(uuid "f290de33-c55b-41c9-9ed5-79d3b20e6eda")
 	)
 	(pad "17" smd roundrect
-		(at 4.445 5.715 90)
+		(at 3.81 5.715 90)
 		(size 2.032 1.016)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
@@ -247,7 +247,7 @@
 		(uuid "32cdcdd0-582e-4abc-8123-f73ecf3a0bcb")
 	)
 	(pad "18" smd roundrect
-		(at 5.715 5.715 90)
+		(at 5.08 5.715 90)
 		(size 2.032 1.016)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
@@ -255,7 +255,7 @@
 		(uuid "f4b31dff-512e-4108-a87f-fb8b8845fd48")
 	)
 	(pad "19" smd roundrect
-		(at 6.985 5.715 90)
+		(at 6.35 5.715 90)
 		(size 2.032 1.016)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
@@ -263,7 +263,7 @@
 		(uuid "32a94a0f-c777-4b7c-8f53-2e6fb44d98bc")
 	)
 	(pad "20" smd roundrect
-		(at 8.255 5.715 90)
+		(at 7.62 5.715 90)
 		(size 2.032 1.016)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
@@ -271,7 +271,7 @@
 		(uuid "a78a9387-0641-4384-9870-7ea556930c51")
 	)
 	(pad "21" smd roundrect
-		(at 9.525 5.715 90)
+		(at 8.89 5.715 90)
 		(size 2.032 1.016)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)

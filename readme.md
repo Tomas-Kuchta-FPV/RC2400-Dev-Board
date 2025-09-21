@@ -1,4 +1,4 @@
-# RC2400 Dev Board
+# AN026 Dev/breakout Board
 
 Development board for [AN026](https://radiocrafts.com/uploads/AN026_One_Common_Footprint_For_Many_Technologies.pdf). Which is a footprint for Radio Crafts modules.
 
